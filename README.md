@@ -761,5 +761,4 @@ pytest
 
 ## 14. Demo này *không* phải là gì
 
-Không phải H.265. Không phải codec cạnh tranh. Không phải CDN thật. Không phải mô hình SR được huấn luyện. Không encode riêng cho từng user. Mọi con số in ra đều đến từ code trong repo này mà bạn có thể mở và đọc trong vài phút; khả năng truy vết đó mới là mục tiêu thật của bài tập, không phải tỷ lệ nén hay kỷ lục PSNR.#   C S 2 3 2 - - - h 2 5 6 - s t r e a m i n g - d e m o  
- 
+Không phải H.265. Không phải codec cạnh tranh. Không phải CDN thật. Không phải mô hình SR được huấn luyện. Không encode riêng cho từng user. Mọi con số in ra đều đến từ code trong repo này mà bạn có thể mở và đọc trong vài phút; khả năng truy vết đó mới là mục tiêu thật của bài tập, không phải tỷ lệ nén hay kỷ lục PSNR.#
