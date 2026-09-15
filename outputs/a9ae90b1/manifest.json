@@ -1,0 +1,10 @@
+{
+  "video_id": "a9ae90b1",
+  "qp": 8,
+  "num_frames": 64,
+  "qualities": [
+    "240p",
+    "360p",
+    "540p"
+  ]
+}

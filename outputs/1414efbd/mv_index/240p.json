@@ -1,0 +1,9666 @@
+{
+  "0": [
+    {
+      "frame_id": 0,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 765,
+      "rle_bytes": 1536
+    },
+    {
+      "frame_id": 0,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 608,
+      "rle_bytes": 1222
+    },
+    {
+      "frame_id": 0,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 656,
+      "rle_bytes": 1318
+    },
+    {
+      "frame_id": 0,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 512,
+      "rle_bytes": 1030
+    },
+    {
+      "frame_id": 0,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 496,
+      "rle_bytes": 998
+    },
+    {
+      "frame_id": 0,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 400,
+      "rle_bytes": 808
+    },
+    {
+      "frame_id": 0,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 556,
+      "rle_bytes": 1118
+    },
+    {
+      "frame_id": 0,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 432,
+      "rle_bytes": 872
+    },
+    {
+      "frame_id": 0,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 416,
+      "rle_bytes": 840
+    },
+    {
+      "frame_id": 0,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 416,
+      "rle_bytes": 840
+    },
+    {
+      "frame_id": 0,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 421,
+      "rle_bytes": 850
+    },
+    {
+      "frame_id": 0,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 416,
+      "rle_bytes": 840
+    },
+    {
+      "frame_id": 0,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 416,
+      "rle_bytes": 840
+    },
+    {
+      "frame_id": 0,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 416,
+      "rle_bytes": 840
+    },
+    {
+      "frame_id": 0,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 416,
+      "rle_bytes": 840
+    }
+  ],
+  "1": [
+    {
+      "frame_id": 1,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        8.03
+      ],
+      "nonzero_levels": 53,
+      "rle_bytes": 114
+    },
+    {
+      "frame_id": 1,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        9.29
+      ],
+      "nonzero_levels": 128,
+      "rle_bytes": 262
+    },
+    {
+      "frame_id": 1,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        7.61
+      ],
+      "nonzero_levels": 104,
+      "rle_bytes": 214
+    },
+    {
+      "frame_id": 1,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.54
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 40
+    },
+    {
+      "frame_id": 1,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          -5,
+          8
+        ]
+      ],
+      "match_mse": [
+        1995.33
+      ],
+      "nonzero_levels": 536,
+      "rle_bytes": 1078
+    },
+    {
+      "frame_id": 1,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.51
+      ],
+      "nonzero_levels": 54,
+      "rle_bytes": 116
+    },
+    {
+      "frame_id": 1,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        687.0
+      ],
+      "nonzero_levels": 356,
+      "rle_bytes": 718
+    },
+    {
+      "frame_id": 1,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.44
+      ],
+      "nonzero_levels": 80,
+      "rle_bytes": 168
+    },
+    {
+      "frame_id": 1,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        3.77
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 1,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          -5,
+          0
+        ]
+      ],
+      "match_mse": [
+        1975.83
+      ],
+      "nonzero_levels": 512,
+      "rle_bytes": 1032
+    },
+    {
+      "frame_id": 1,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.05
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 1,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.18
+      ],
+      "nonzero_levels": 82,
+      "rle_bytes": 172
+    },
+    {
+      "frame_id": 1,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.88
+      ],
+      "nonzero_levels": 96,
+      "rle_bytes": 200
+    },
+    {
+      "frame_id": 1,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4.71
+      ],
+      "nonzero_levels": 24,
+      "rle_bytes": 58
+    },
+    {
+      "frame_id": 1,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          -3,
+          0
+        ]
+      ],
+      "match_mse": [
+        1978.01
+      ],
+      "nonzero_levels": 512,
+      "rle_bytes": 1032
+    }
+  ],
+  "2": [
+    {
+      "frame_id": 2,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        9.51,
+        9.23
+      ],
+      "nonzero_levels": 5,
+      "rle_bytes": 20
+    },
+    {
+      "frame_id": 2,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        8.75,
+        6.75
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 2,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.0,
+        5.0
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 2,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        3.65,
+        3.65
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 2,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        32.87,
+        186.41
+      ],
+      "nonzero_levels": 96,
+      "rle_bytes": 198
+    },
+    {
+      "frame_id": 2,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          -5
+        ]
+      ],
+      "match_mse": [
+        7.92,
+        14.62
+      ],
+      "nonzero_levels": 85,
+      "rle_bytes": 178
+    },
+    {
+      "frame_id": 2,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          -1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "match_mse": [
+        104.05,
+        1519.13
+      ],
+      "nonzero_levels": 185,
+      "rle_bytes": 376
+    },
+    {
+      "frame_id": 2,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.63,
+        5.91
+      ],
+      "nonzero_levels": 40,
+      "rle_bytes": 86
+    },
+    {
+      "frame_id": 2,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        3.65,
+        3.65
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 2,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        30.65,
+        197.17
+      ],
+      "nonzero_levels": 96,
+      "rle_bytes": 198
+    },
+    {
+      "frame_id": 2,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          -5
+        ]
+      ],
+      "match_mse": [
+        7.19,
+        14.3
+      ],
+      "nonzero_levels": 21,
+      "rle_bytes": 52
+    },
+    {
+      "frame_id": 2,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.13,
+        5.16
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 2,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.1,
+        4.45
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 40
+    },
+    {
+      "frame_id": 2,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        3.75,
+        3.65
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 2,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        28.27,
+        183.76
+      ],
+      "nonzero_levels": 97,
+      "rle_bytes": 200
+    }
+  ],
+  "3": [
+    {
+      "frame_id": 3,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        21.02
+      ],
+      "nonzero_levels": 223,
+      "rle_bytes": 452
+    },
+    {
+      "frame_id": 3,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        9.12
+      ],
+      "nonzero_levels": 104,
+      "rle_bytes": 214
+    },
+    {
+      "frame_id": 3,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        4.52
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 3,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        4.76
+      ],
+      "nonzero_levels": 10,
+      "rle_bytes": 28
+    },
+    {
+      "frame_id": 3,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          8
+        ]
+      ],
+      "match_mse": [
+        2757.86
+      ],
+      "nonzero_levels": 365,
+      "rle_bytes": 736
+    },
+    {
+      "frame_id": 3,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.69
+      ],
+      "nonzero_levels": 45,
+      "rle_bytes": 98
+    },
+    {
+      "frame_id": 3,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          -2
+        ]
+      ],
+      "match_mse": [
+        1479.64
+      ],
+      "nonzero_levels": 510,
+      "rle_bytes": 1026
+    },
+    {
+      "frame_id": 3,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.71
+      ],
+      "nonzero_levels": 60,
+      "rle_bytes": 126
+    },
+    {
+      "frame_id": 3,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4.65
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 3,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        2772.92
+      ],
+      "nonzero_levels": 368,
+      "rle_bytes": 742
+    },
+    {
+      "frame_id": 3,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          -6
+        ]
+      ],
+      "match_mse": [
+        6.89
+      ],
+      "nonzero_levels": 54,
+      "rle_bytes": 116
+    },
+    {
+      "frame_id": 3,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.6
+      ],
+      "nonzero_levels": 44,
+      "rle_bytes": 98
+    },
+    {
+      "frame_id": 3,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.09
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 3,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.09
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 40
+    },
+    {
+      "frame_id": 3,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        2766.17
+      ],
+      "nonzero_levels": 342,
+      "rle_bytes": 690
+    }
+  ],
+  "4": [
+    {
+      "frame_id": 4,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        10.31,
+        11.85
+      ],
+      "nonzero_levels": 25,
+      "rle_bytes": 58
+    },
+    {
+      "frame_id": 4,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        7.48,
+        7.31
+      ],
+      "nonzero_levels": 40,
+      "rle_bytes": 86
+    },
+    {
+      "frame_id": 4,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.67,
+        4.33
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 4,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.07,
+        5.07
+      ],
+      "nonzero_levels": 32,
+      "rle_bytes": 74
+    },
+    {
+      "frame_id": 4,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          5
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        727.65,
+        198.1
+      ],
+      "nonzero_levels": 73,
+      "rle_bytes": 152
+    },
+    {
+      "frame_id": 4,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          8
+        ]
+      ],
+      "match_mse": [
+        6.59,
+        13.47
+      ],
+      "nonzero_levels": 21,
+      "rle_bytes": 50
+    },
+    {
+      "frame_id": 4,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          -1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "match_mse": [
+        1542.08,
+        83.04
+      ],
+      "nonzero_levels": 165,
+      "rle_bytes": 336
+    },
+    {
+      "frame_id": 4,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "match_mse": [
+        43.4,
+        32.98
+      ],
+      "nonzero_levels": 18,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 4,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.15,
+        5.15
+      ],
+      "nonzero_levels": 32,
+      "rle_bytes": 74
+    },
+    {
+      "frame_id": 4,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        748.5,
+        185.04
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 134
+    },
+    {
+      "frame_id": 4,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.2,
+        10.83
+      ],
+      "nonzero_levels": 10,
+      "rle_bytes": 30
+    },
+    {
+      "frame_id": 4,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          -3,
+          0
+        ]
+      ],
+      "match_mse": [
+        9.87,
+        131.6
+      ],
+      "nonzero_levels": 266,
+      "rle_bytes": 538
+    },
+    {
+      "frame_id": 4,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.65,
+        16.02
+      ],
+      "nonzero_levels": 85,
+      "rle_bytes": 176
+    },
+    {
+      "frame_id": 4,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.07,
+        5.07
+      ],
+      "nonzero_levels": 32,
+      "rle_bytes": 74
+    },
+    {
+      "frame_id": 4,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        727.65,
+        197.9
+      ],
+      "nonzero_levels": 74,
+      "rle_bytes": 154
+    }
+  ],
+  "5": [
+    {
+      "frame_id": 5,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        25.32
+      ],
+      "nonzero_levels": 272,
+      "rle_bytes": 550
+    },
+    {
+      "frame_id": 5,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.81
+      ],
+      "nonzero_levels": 24,
+      "rle_bytes": 56
+    },
+    {
+      "frame_id": 5,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.29
+      ],
+      "nonzero_levels": 80,
+      "rle_bytes": 168
+    },
+    {
+      "frame_id": 5,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.28
+      ],
+      "nonzero_levels": 22,
+      "rle_bytes": 52
+    },
+    {
+      "frame_id": 5,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          2
+        ]
+      ],
+      "match_mse": [
+        4029.91
+      ],
+      "nonzero_levels": 379,
+      "rle_bytes": 764
+    },
+    {
+      "frame_id": 5,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        7.02
+      ],
+      "nonzero_levels": 73,
+      "rle_bytes": 154
+    },
+    {
+      "frame_id": 5,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          -2
+        ]
+      ],
+      "match_mse": [
+        1038.72
+      ],
+      "nonzero_levels": 521,
+      "rle_bytes": 1048
+    },
+    {
+      "frame_id": 5,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          -2
+        ]
+      ],
+      "match_mse": [
+        217.84
+      ],
+      "nonzero_levels": 531,
+      "rle_bytes": 1068
+    },
+    {
+      "frame_id": 5,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4.46
+      ],
+      "nonzero_levels": 32,
+      "rle_bytes": 72
+    },
+    {
+      "frame_id": 5,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4040.44
+      ],
+      "nonzero_levels": 384,
+      "rle_bytes": 774
+    },
+    {
+      "frame_id": 5,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.23
+      ],
+      "nonzero_levels": 52,
+      "rle_bytes": 112
+    },
+    {
+      "frame_id": 5,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -1
+        ]
+      ],
+      "match_mse": [
+        138.03
+      ],
+      "nonzero_levels": 272,
+      "rle_bytes": 550
+    },
+    {
+      "frame_id": 5,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          -1
+        ]
+      ],
+      "match_mse": [
+        6.43
+      ],
+      "nonzero_levels": 66,
+      "rle_bytes": 138
+    },
+    {
+      "frame_id": 5,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.14
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 40
+    },
+    {
+      "frame_id": 5,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4028.74
+      ],
+      "nonzero_levels": 381,
+      "rle_bytes": 768
+    }
+  ],
+  "6": [
+    {
+      "frame_id": 6,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        9.67,
+        8.63
+      ],
+      "nonzero_levels": 11,
+      "rle_bytes": 28
+    },
+    {
+      "frame_id": 6,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        7.52,
+        6.52
+      ],
+      "nonzero_levels": 32,
+      "rle_bytes": 72
+    },
+    {
+      "frame_id": 6,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.3,
+        4.03
+      ],
+      "nonzero_levels": 34,
+      "rle_bytes": 76
+    },
+    {
+      "frame_id": 6,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.33,
+        6.22
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 6,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          2
+        ],
+        [
+          -1,
+          5
+        ]
+      ],
+      "match_mse": [
+        26.14,
+        27.22
+      ],
+      "nonzero_levels": 74,
+      "rle_bytes": 156
+    },
+    {
+      "frame_id": 6,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.25,
+        7.21
+      ],
+      "nonzero_levels": 45,
+      "rle_bytes": 98
+    },
+    {
+      "frame_id": 6,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          -1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        265.02,
+        616.42
+      ],
+      "nonzero_levels": 117,
+      "rle_bytes": 240
+    },
+    {
+      "frame_id": 6,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          -1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "match_mse": [
+        275.73,
+        274.1
+      ],
+      "nonzero_levels": 51,
+      "rle_bytes": 108
+    },
+    {
+      "frame_id": 6,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4.21,
+        6.21
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 6,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        26.0,
+        26.77
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 6,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.09,
+        7.9
+      ],
+      "nonzero_levels": 22,
+      "rle_bytes": 52
+    },
+    {
+      "frame_id": 6,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          -2,
+          -1
+        ],
+        [
+          -2,
+          0
+        ]
+      ],
+      "match_mse": [
+        99.0,
+        331.54
+      ],
+      "nonzero_levels": 454,
+      "rle_bytes": 914
+    },
+    {
+      "frame_id": 6,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -4
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        15.39,
+        55.0
+      ],
+      "nonzero_levels": 285,
+      "rle_bytes": 576
+    },
+    {
+      "frame_id": 6,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -3
+        ],
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4.07,
+        6.22
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 6,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        26.27,
+        27.41
+      ],
+      "nonzero_levels": 70,
+      "rle_bytes": 148
+    }
+  ],
+  "7": [
+    {
+      "frame_id": 7,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        17.66
+      ],
+      "nonzero_levels": 217,
+      "rle_bytes": 440
+    },
+    {
+      "frame_id": 7,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.69
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 7,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        4.67
+      ],
+      "nonzero_levels": 27,
+      "rle_bytes": 60
+    },
+    {
+      "frame_id": 7,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          5
+        ]
+      ],
+      "match_mse": [
+        5.3
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 7,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          4
+        ]
+      ],
+      "match_mse": [
+        2546.89
+      ],
+      "nonzero_levels": 195,
+      "rle_bytes": 398
+    },
+    {
+      "frame_id": 7,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.89
+      ],
+      "nonzero_levels": 18,
+      "rle_bytes": 44
+    },
+    {
+      "frame_id": 7,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          -1
+        ]
+      ],
+      "match_mse": [
+        605.1
+      ],
+      "nonzero_levels": 513,
+      "rle_bytes": 1032
+    },
+    {
+      "frame_id": 7,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          -1
+        ]
+      ],
+      "match_mse": [
+        397.03
+      ],
+      "nonzero_levels": 510,
+      "rle_bytes": 1026
+    },
+    {
+      "frame_id": 7,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.23
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 7,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        2554.4
+      ],
+      "nonzero_levels": 192,
+      "rle_bytes": 392
+    },
+    {
+      "frame_id": 7,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        6.49
+      ],
+      "nonzero_levels": 71,
+      "rle_bytes": 150
+    },
+    {
+      "frame_id": 7,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          -3,
+          -2
+        ]
+      ],
+      "match_mse": [
+        359.54
+      ],
+      "nonzero_levels": 522,
+      "rle_bytes": 1050
+    },
+    {
+      "frame_id": 7,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          -3,
+          -1
+        ]
+      ],
+      "match_mse": [
+        156.75
+      ],
+      "nonzero_levels": 519,
+      "rle_bytes": 1044
+    },
+    {
+      "frame_id": 7,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -5
+        ]
+      ],
+      "match_mse": [
+        5.26
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 7,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -4
+        ]
+      ],
+      "match_mse": [
+        2544.91
+      ],
+      "nonzero_levels": 192,
+      "rle_bytes": 392
+    }
+  ],
+  "8": [
+    {
+      "frame_id": 8,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 768,
+      "rle_bytes": 1542
+    },
+    {
+      "frame_id": 8,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 608,
+      "rle_bytes": 1222
+    },
+    {
+      "frame_id": 8,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 656,
+      "rle_bytes": 1318
+    },
+    {
+      "frame_id": 8,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 528,
+      "rle_bytes": 1062
+    },
+    {
+      "frame_id": 8,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 512,
+      "rle_bytes": 1030
+    },
+    {
+      "frame_id": 8,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 443,
+      "rle_bytes": 892
+    },
+    {
+      "frame_id": 8,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 464,
+      "rle_bytes": 934
+    },
+    {
+      "frame_id": 8,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 718,
+      "rle_bytes": 1442
+    },
+    {
+      "frame_id": 8,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 432,
+      "rle_bytes": 872
+    },
+    {
+      "frame_id": 8,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 528,
+      "rle_bytes": 1062
+    },
+    {
+      "frame_id": 8,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 432,
+      "rle_bytes": 872
+    },
+    {
+      "frame_id": 8,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 676,
+      "rle_bytes": 1358
+    },
+    {
+      "frame_id": 8,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 705,
+      "rle_bytes": 1416
+    },
+    {
+      "frame_id": 8,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 400,
+      "rle_bytes": 808
+    },
+    {
+      "frame_id": 8,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 528,
+      "rle_bytes": 1062
+    }
+  ],
+  "9": [
+    {
+      "frame_id": 9,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        9.09
+      ],
+      "nonzero_levels": 81,
+      "rle_bytes": 168
+    },
+    {
+      "frame_id": 9,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          3
+        ]
+      ],
+      "match_mse": [
+        7.08
+      ],
+      "nonzero_levels": 79,
+      "rle_bytes": 166
+    },
+    {
+      "frame_id": 9,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.6
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 102
+    },
+    {
+      "frame_id": 9,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        7.9
+      ],
+      "nonzero_levels": 80,
+      "rle_bytes": 168
+    },
+    {
+      "frame_id": 9,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          3
+        ]
+      ],
+      "match_mse": [
+        636.99
+      ],
+      "nonzero_levels": 134,
+      "rle_bytes": 274
+    },
+    {
+      "frame_id": 9,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        6.95
+      ],
+      "nonzero_levels": 83,
+      "rle_bytes": 172
+    },
+    {
+      "frame_id": 9,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        266.51
+      ],
+      "nonzero_levels": 330,
+      "rle_bytes": 666
+    },
+    {
+      "frame_id": 9,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        508.49
+      ],
+      "nonzero_levels": 326,
+      "rle_bytes": 658
+    },
+    {
+      "frame_id": 9,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.62
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 9,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        676.65
+      ],
+      "nonzero_levels": 128,
+      "rle_bytes": 262
+    },
+    {
+      "frame_id": 9,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -3
+        ]
+      ],
+      "match_mse": [
+        7.07
+      ],
+      "nonzero_levels": 78,
+      "rle_bytes": 164
+    },
+    {
+      "frame_id": 9,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        207.93
+      ],
+      "nonzero_levels": 113,
+      "rle_bytes": 232
+    },
+    {
+      "frame_id": 9,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -1
+        ]
+      ],
+      "match_mse": [
+        288.43
+      ],
+      "nonzero_levels": 153,
+      "rle_bytes": 312
+    },
+    {
+      "frame_id": 9,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        6.34
+      ],
+      "nonzero_levels": 66,
+      "rle_bytes": 140
+    },
+    {
+      "frame_id": 9,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        642.86
+      ],
+      "nonzero_levels": 162,
+      "rle_bytes": 330
+    }
+  ],
+  "10": [
+    {
+      "frame_id": 10,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        16.29,
+        8.89
+      ],
+      "nonzero_levels": 25,
+      "rle_bytes": 56
+    },
+    {
+      "frame_id": 10,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          3
+        ]
+      ],
+      "match_mse": [
+        6.41,
+        6.87
+      ],
+      "nonzero_levels": 9,
+      "rle_bytes": 26
+    },
+    {
+      "frame_id": 10,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          5
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        7.16,
+        7.91
+      ],
+      "nonzero_levels": 62,
+      "rle_bytes": 132
+    },
+    {
+      "frame_id": 10,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.05,
+        5.59
+      ],
+      "nonzero_levels": 21,
+      "rle_bytes": 50
+    },
+    {
+      "frame_id": 10,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          5
+        ],
+        [
+          -1,
+          4
+        ]
+      ],
+      "match_mse": [
+        1338.2,
+        654.53
+      ],
+      "nonzero_levels": 199,
+      "rle_bytes": 404
+    },
+    {
+      "frame_id": 10,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.66,
+        8.86
+      ],
+      "nonzero_levels": 18,
+      "rle_bytes": 44
+    },
+    {
+      "frame_id": 10,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        153.34,
+        180.24
+      ],
+      "nonzero_levels": 72,
+      "rle_bytes": 150
+    },
+    {
+      "frame_id": 10,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          -1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        593.89,
+        171.93
+      ],
+      "nonzero_levels": 68,
+      "rle_bytes": 142
+    },
+    {
+      "frame_id": 10,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          8
+        ]
+      ],
+      "match_mse": [
+        4.4,
+        5.0
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 10,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "match_mse": [
+        1347.44,
+        664.94
+      ],
+      "nonzero_levels": 70,
+      "rle_bytes": 146
+    },
+    {
+      "frame_id": 10,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.48,
+        7.57
+      ],
+      "nonzero_levels": 33,
+      "rle_bytes": 74
+    },
+    {
+      "frame_id": 10,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        227.25,
+        145.56
+      ],
+      "nonzero_levels": 24,
+      "rle_bytes": 54
+    },
+    {
+      "frame_id": 10,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        512.2,
+        118.54
+      ],
+      "nonzero_levels": 94,
+      "rle_bytes": 194
+    },
+    {
+      "frame_id": 10,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.57,
+        5.1
+      ],
+      "nonzero_levels": 26,
+      "rle_bytes": 60
+    },
+    {
+      "frame_id": 10,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -4
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        1341.87,
+        656.71
+      ],
+      "nonzero_levels": 199,
+      "rle_bytes": 404
+    }
+  ],
+  "11": [
+    {
+      "frame_id": 11,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        23.77
+      ],
+      "nonzero_levels": 320,
+      "rle_bytes": 646
+    },
+    {
+      "frame_id": 11,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        7.73
+      ],
+      "nonzero_levels": 60,
+      "rle_bytes": 126
+    },
+    {
+      "frame_id": 11,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        7.59
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 102
+    },
+    {
+      "frame_id": 11,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        6.74
+      ],
+      "nonzero_levels": 80,
+      "rle_bytes": 168
+    },
+    {
+      "frame_id": 11,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          4
+        ]
+      ],
+      "match_mse": [
+        3270.24
+      ],
+      "nonzero_levels": 339,
+      "rle_bytes": 684
+    },
+    {
+      "frame_id": 11,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.58
+      ],
+      "nonzero_levels": 69,
+      "rle_bytes": 146
+    },
+    {
+      "frame_id": 11,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          -3
+        ]
+      ],
+      "match_mse": [
+        130.33
+      ],
+      "nonzero_levels": 491,
+      "rle_bytes": 988
+    },
+    {
+      "frame_id": 11,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          0
+        ]
+      ],
+      "match_mse": [
+        871.98
+      ],
+      "nonzero_levels": 491,
+      "rle_bytes": 988
+    },
+    {
+      "frame_id": 11,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.04
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 11,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        3292.18
+      ],
+      "nonzero_levels": 336,
+      "rle_bytes": 678
+    },
+    {
+      "frame_id": 11,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.61
+      ],
+      "nonzero_levels": 77,
+      "rle_bytes": 162
+    },
+    {
+      "frame_id": 11,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          -2,
+          0
+        ]
+      ],
+      "match_mse": [
+        117.34
+      ],
+      "nonzero_levels": 520,
+      "rle_bytes": 1046
+    },
+    {
+      "frame_id": 11,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          -2,
+          0
+        ]
+      ],
+      "match_mse": [
+        644.17
+      ],
+      "nonzero_levels": 582,
+      "rle_bytes": 1170
+    },
+    {
+      "frame_id": 11,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.03
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 11,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        3273.78
+      ],
+      "nonzero_levels": 336,
+      "rle_bytes": 678
+    }
+  ],
+  "12": [
+    {
+      "frame_id": 12,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        21.96,
+        9.88
+      ],
+      "nonzero_levels": 39,
+      "rle_bytes": 84
+    },
+    {
+      "frame_id": 12,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          7
+        ],
+        [
+          -1,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.55,
+        4.68
+      ],
+      "nonzero_levels": 15,
+      "rle_bytes": 38
+    },
+    {
+      "frame_id": 12,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          8
+        ]
+      ],
+      "match_mse": [
+        9.06,
+        6.87
+      ],
+      "nonzero_levels": 53,
+      "rle_bytes": 112
+    },
+    {
+      "frame_id": 12,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          8
+        ],
+        [
+          -1,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.9,
+        5.54
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 12,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          4
+        ],
+        [
+          -1,
+          1
+        ]
+      ],
+      "match_mse": [
+        2625.08,
+        616.84
+      ],
+      "nonzero_levels": 87,
+      "rle_bytes": 180
+    },
+    {
+      "frame_id": 12,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          6
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        7.74,
+        9.77
+      ],
+      "nonzero_levels": 1,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 12,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          -4
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        25.67,
+        44.1
+      ],
+      "nonzero_levels": 310,
+      "rle_bytes": 626
+    },
+    {
+      "frame_id": 12,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        172.76,
+        44.12
+      ],
+      "nonzero_levels": 73,
+      "rle_bytes": 152
+    },
+    {
+      "frame_id": 12,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.83,
+        5.46
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 12,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -4
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        2630.43,
+        620.18
+      ],
+      "nonzero_levels": 80,
+      "rle_bytes": 166
+    },
+    {
+      "frame_id": 12,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        6.39,
+        9.81
+      ],
+      "nonzero_levels": 52,
+      "rle_bytes": 112
+    },
+    {
+      "frame_id": 12,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        28.7,
+        10.24
+      ],
+      "nonzero_levels": 149,
+      "rle_bytes": 304
+    },
+    {
+      "frame_id": 12,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        147.13,
+        61.24
+      ],
+      "nonzero_levels": 114,
+      "rle_bytes": 234
+    },
+    {
+      "frame_id": 12,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.83,
+        5.37
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 12,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        2632.5,
+        618.22
+      ],
+      "nonzero_levels": 85,
+      "rle_bytes": 176
+    }
+  ],
+  "13": [
+    {
+      "frame_id": 13,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        31.42
+      ],
+      "nonzero_levels": 337,
+      "rle_bytes": 680
+    },
+    {
+      "frame_id": 13,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          5
+        ]
+      ],
+      "match_mse": [
+        5.16
+      ],
+      "nonzero_levels": 33,
+      "rle_bytes": 72
+    },
+    {
+      "frame_id": 13,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          5
+        ]
+      ],
+      "match_mse": [
+        8.45
+      ],
+      "nonzero_levels": 65,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 13,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          5
+        ]
+      ],
+      "match_mse": [
+        5.63
+      ],
+      "nonzero_levels": 19,
+      "rle_bytes": 46
+    },
+    {
+      "frame_id": 13,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          4
+        ]
+      ],
+      "match_mse": [
+        3372.32
+      ],
+      "nonzero_levels": 396,
+      "rle_bytes": 798
+    },
+    {
+      "frame_id": 13,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          6
+        ]
+      ],
+      "match_mse": [
+        7.72
+      ],
+      "nonzero_levels": 94,
+      "rle_bytes": 194
+    },
+    {
+      "frame_id": 13,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          -7
+        ]
+      ],
+      "match_mse": [
+        5.37
+      ],
+      "nonzero_levels": 41,
+      "rle_bytes": 88
+    },
+    {
+      "frame_id": 13,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          0
+        ]
+      ],
+      "match_mse": [
+        269.53
+      ],
+      "nonzero_levels": 495,
+      "rle_bytes": 996
+    },
+    {
+      "frame_id": 13,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.47
+      ],
+      "nonzero_levels": 19,
+      "rle_bytes": 46
+    },
+    {
+      "frame_id": 13,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -4
+        ]
+      ],
+      "match_mse": [
+        3403.95
+      ],
+      "nonzero_levels": 413,
+      "rle_bytes": 832
+    },
+    {
+      "frame_id": 13,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.38
+      ],
+      "nonzero_levels": 59,
+      "rle_bytes": 126
+    },
+    {
+      "frame_id": 13,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        59.56
+      ],
+      "nonzero_levels": 464,
+      "rle_bytes": 934
+    },
+    {
+      "frame_id": 13,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          -2,
+          0
+        ]
+      ],
+      "match_mse": [
+        231.18
+      ],
+      "nonzero_levels": 547,
+      "rle_bytes": 1100
+    },
+    {
+      "frame_id": 13,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.62
+      ],
+      "nonzero_levels": 24,
+      "rle_bytes": 56
+    },
+    {
+      "frame_id": 13,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        3381.32
+      ],
+      "nonzero_levels": 407,
+      "rle_bytes": 820
+    }
+  ],
+  "14": [
+    {
+      "frame_id": 14,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        9.82,
+        10.55
+      ],
+      "nonzero_levels": 4,
+      "rle_bytes": 14
+    },
+    {
+      "frame_id": 14,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          7
+        ],
+        [
+          -1,
+          4
+        ]
+      ],
+      "match_mse": [
+        6.43,
+        4.52
+      ],
+      "nonzero_levels": 1,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 14,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          4
+        ]
+      ],
+      "match_mse": [
+        7.01,
+        5.16
+      ],
+      "nonzero_levels": 1,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 14,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.17,
+        4.71
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 14,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          1
+        ],
+        [
+          -1,
+          7
+        ]
+      ],
+      "match_mse": [
+        1128.14,
+        553.32
+      ],
+      "nonzero_levels": 168,
+      "rle_bytes": 342
+    },
+    {
+      "frame_id": 14,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          8
+        ]
+      ],
+      "match_mse": [
+        4.85,
+        12.88
+      ],
+      "nonzero_levels": 47,
+      "rle_bytes": 102
+    },
+    {
+      "frame_id": 14,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          -6
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        7.55,
+        4.8
+      ],
+      "nonzero_levels": 6,
+      "rle_bytes": 20
+    },
+    {
+      "frame_id": 14,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        43.88,
+        49.55
+      ],
+      "nonzero_levels": 58,
+      "rle_bytes": 122
+    },
+    {
+      "frame_id": 14,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.13,
+        4.63
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 14,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        1168.04,
+        583.75
+      ],
+      "nonzero_levels": 160,
+      "rle_bytes": 326
+    },
+    {
+      "frame_id": 14,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.1,
+        12.81
+      ],
+      "nonzero_levels": 52,
+      "rle_bytes": 112
+    },
+    {
+      "frame_id": 14,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -5
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        9.35,
+        4.91
+      ],
+      "nonzero_levels": 25,
+      "rle_bytes": 56
+    },
+    {
+      "frame_id": 14,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        46.32,
+        66.45
+      ],
+      "nonzero_levels": 86,
+      "rle_bytes": 178
+    },
+    {
+      "frame_id": 14,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.13,
+        4.76
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 14,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          -5
+        ]
+      ],
+      "match_mse": [
+        1130.29,
+        554.26
+      ],
+      "nonzero_levels": 173,
+      "rle_bytes": 352
+    }
+  ],
+  "15": [
+    {
+      "frame_id": 15,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        22.52
+      ],
+      "nonzero_levels": 264,
+      "rle_bytes": 534
+    },
+    {
+      "frame_id": 15,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          7
+        ]
+      ],
+      "match_mse": [
+        6.35
+      ],
+      "nonzero_levels": 57,
+      "rle_bytes": 120
+    },
+    {
+      "frame_id": 15,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          7
+        ]
+      ],
+      "match_mse": [
+        7.97
+      ],
+      "nonzero_levels": 82,
+      "rle_bytes": 170
+    },
+    {
+      "frame_id": 15,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          5
+        ]
+      ],
+      "match_mse": [
+        5.75
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 15,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          1
+        ]
+      ],
+      "match_mse": [
+        3116.03
+      ],
+      "nonzero_levels": 388,
+      "rle_bytes": 782
+    },
+    {
+      "frame_id": 15,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.33
+      ],
+      "nonzero_levels": 27,
+      "rle_bytes": 62
+    },
+    {
+      "frame_id": 15,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          -6
+        ]
+      ],
+      "match_mse": [
+        7.08
+      ],
+      "nonzero_levels": 85,
+      "rle_bytes": 176
+    },
+    {
+      "frame_id": 15,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          0
+        ]
+      ],
+      "match_mse": [
+        144.26
+      ],
+      "nonzero_levels": 476,
+      "rle_bytes": 958
+    },
+    {
+      "frame_id": 15,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.66
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 15,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        3113.15
+      ],
+      "nonzero_levels": 384,
+      "rle_bytes": 774
+    },
+    {
+      "frame_id": 15,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.99
+      ],
+      "nonzero_levels": 43,
+      "rle_bytes": 94
+    },
+    {
+      "frame_id": 15,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        16.18
+      ],
+      "nonzero_levels": 81,
+      "rle_bytes": 168
+    },
+    {
+      "frame_id": 15,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          -2,
+          0
+        ]
+      ],
+      "match_mse": [
+        170.02
+      ],
+      "nonzero_levels": 555,
+      "rle_bytes": 1116
+    },
+    {
+      "frame_id": 15,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.62
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 15,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        3118.69
+      ],
+      "nonzero_levels": 381,
+      "rle_bytes": 768
+    }
+  ],
+  "16": [
+    {
+      "frame_id": 16,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 767,
+      "rle_bytes": 1540
+    },
+    {
+      "frame_id": 16,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 592,
+      "rle_bytes": 1190
+    },
+    {
+      "frame_id": 16,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 635,
+      "rle_bytes": 1276
+    },
+    {
+      "frame_id": 16,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 496,
+      "rle_bytes": 1000
+    },
+    {
+      "frame_id": 16,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 576,
+      "rle_bytes": 1158
+    },
+    {
+      "frame_id": 16,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 416,
+      "rle_bytes": 840
+    },
+    {
+      "frame_id": 16,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 434,
+      "rle_bytes": 874
+    },
+    {
+      "frame_id": 16,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 515,
+      "rle_bytes": 1036
+    },
+    {
+      "frame_id": 16,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 400,
+      "rle_bytes": 808
+    },
+    {
+      "frame_id": 16,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 512,
+      "rle_bytes": 1032
+    },
+    {
+      "frame_id": 16,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 400,
+      "rle_bytes": 808
+    },
+    {
+      "frame_id": 16,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 433,
+      "rle_bytes": 872
+    },
+    {
+      "frame_id": 16,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 732,
+      "rle_bytes": 1470
+    },
+    {
+      "frame_id": 16,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 432,
+      "rle_bytes": 872
+    },
+    {
+      "frame_id": 16,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 512,
+      "rle_bytes": 1032
+    }
+  ],
+  "17": [
+    {
+      "frame_id": 17,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        11.35
+      ],
+      "nonzero_levels": 136,
+      "rle_bytes": 278
+    },
+    {
+      "frame_id": 17,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        8.41
+      ],
+      "nonzero_levels": 90,
+      "rle_bytes": 186
+    },
+    {
+      "frame_id": 17,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          7
+        ]
+      ],
+      "match_mse": [
+        6.93
+      ],
+      "nonzero_levels": 46,
+      "rle_bytes": 98
+    },
+    {
+      "frame_id": 17,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        7.29
+      ],
+      "nonzero_levels": 72,
+      "rle_bytes": 152
+    },
+    {
+      "frame_id": 17,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          2
+        ]
+      ],
+      "match_mse": [
+        643.17
+      ],
+      "nonzero_levels": 156,
+      "rle_bytes": 318
+    },
+    {
+      "frame_id": 17,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.54
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 17,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        7.02
+      ],
+      "nonzero_levels": 82,
+      "rle_bytes": 170
+    },
+    {
+      "frame_id": 17,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        875.77
+      ],
+      "nonzero_levels": 304,
+      "rle_bytes": 614
+    },
+    {
+      "frame_id": 17,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.62
+      ],
+      "nonzero_levels": 56,
+      "rle_bytes": 120
+    },
+    {
+      "frame_id": 17,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        641.58
+      ],
+      "nonzero_levels": 128,
+      "rle_bytes": 262
+    },
+    {
+      "frame_id": 17,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        6.49
+      ],
+      "nonzero_levels": 51,
+      "rle_bytes": 110
+    },
+    {
+      "frame_id": 17,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.21
+      ],
+      "nonzero_levels": 69,
+      "rle_bytes": 144
+    },
+    {
+      "frame_id": 17,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        581.89
+      ],
+      "nonzero_levels": 311,
+      "rle_bytes": 628
+    },
+    {
+      "frame_id": 17,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        4.59
+      ],
+      "nonzero_levels": 34,
+      "rle_bytes": 76
+    },
+    {
+      "frame_id": 17,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        651.48
+      ],
+      "nonzero_levels": 123,
+      "rle_bytes": 254
+    }
+  ],
+  "18": [
+    {
+      "frame_id": 18,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        13.36,
+        8.08
+      ],
+      "nonzero_levels": 24,
+      "rle_bytes": 54
+    },
+    {
+      "frame_id": 18,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.37,
+        5.64
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 18,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          5
+        ],
+        [
+          -1,
+          3
+        ]
+      ],
+      "match_mse": [
+        5.05,
+        4.33
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 18,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          5
+        ]
+      ],
+      "match_mse": [
+        5.07,
+        4.46
+      ],
+      "nonzero_levels": 3,
+      "rle_bytes": 16
+    },
+    {
+      "frame_id": 18,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          6
+        ]
+      ],
+      "match_mse": [
+        1263.04,
+        507.98
+      ],
+      "nonzero_levels": 164,
+      "rle_bytes": 334
+    },
+    {
+      "frame_id": 18,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.42,
+        6.43
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 18,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.01,
+        6.39
+      ],
+      "nonzero_levels": 4,
+      "rle_bytes": 16
+    },
+    {
+      "frame_id": 18,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        916.56,
+        915.7
+      ],
+      "nonzero_levels": 138,
+      "rle_bytes": 282
+    },
+    {
+      "frame_id": 18,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4.58,
+        4.74
+      ],
+      "nonzero_levels": 6,
+      "rle_bytes": 18
+    },
+    {
+      "frame_id": 18,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        1292.3,
+        534.19
+      ],
+      "nonzero_levels": 154,
+      "rle_bytes": 314
+    },
+    {
+      "frame_id": 18,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4.63,
+        6.94
+      ],
+      "nonzero_levels": 8,
+      "rle_bytes": 26
+    },
+    {
+      "frame_id": 18,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -5
+        ],
+        [
+          0,
+          -3
+        ]
+      ],
+      "match_mse": [
+        5.81,
+        6.27
+      ],
+      "nonzero_levels": 20,
+      "rle_bytes": 46
+    },
+    {
+      "frame_id": 18,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        1071.25,
+        516.09
+      ],
+      "nonzero_levels": 89,
+      "rle_bytes": 184
+    },
+    {
+      "frame_id": 18,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -4
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.16,
+        5.45
+      ],
+      "nonzero_levels": 5,
+      "rle_bytes": 16
+    },
+    {
+      "frame_id": 18,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        1257.59,
+        512.1
+      ],
+      "nonzero_levels": 135,
+      "rle_bytes": 276
+    }
+  ],
+  "19": [
+    {
+      "frame_id": 19,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        19.33
+      ],
+      "nonzero_levels": 242,
+      "rle_bytes": 490
+    },
+    {
+      "frame_id": 19,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.89
+      ],
+      "nonzero_levels": 27,
+      "rle_bytes": 62
+    },
+    {
+      "frame_id": 19,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          6
+        ]
+      ],
+      "match_mse": [
+        6.38
+      ],
+      "nonzero_levels": 70,
+      "rle_bytes": 146
+    },
+    {
+      "frame_id": 19,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        6.18
+      ],
+      "nonzero_levels": 36,
+      "rle_bytes": 80
+    },
+    {
+      "frame_id": 19,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          1
+        ]
+      ],
+      "match_mse": [
+        3226.7
+      ],
+      "nonzero_levels": 437,
+      "rle_bytes": 880
+    },
+    {
+      "frame_id": 19,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.86
+      ],
+      "nonzero_levels": 69,
+      "rle_bytes": 146
+    },
+    {
+      "frame_id": 19,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        6.0
+      ],
+      "nonzero_levels": 29,
+      "rle_bytes": 64
+    },
+    {
+      "frame_id": 19,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          1
+        ]
+      ],
+      "match_mse": [
+        234.28
+      ],
+      "nonzero_levels": 488,
+      "rle_bytes": 982
+    },
+    {
+      "frame_id": 19,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.8
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 134
+    },
+    {
+      "frame_id": 19,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        3213.17
+      ],
+      "nonzero_levels": 450,
+      "rle_bytes": 906
+    },
+    {
+      "frame_id": 19,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.86
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 19,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.05
+      ],
+      "nonzero_levels": 33,
+      "rle_bytes": 72
+    },
+    {
+      "frame_id": 19,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          -2,
+          0
+        ]
+      ],
+      "match_mse": [
+        1609.45
+      ],
+      "nonzero_levels": 545,
+      "rle_bytes": 1096
+    },
+    {
+      "frame_id": 19,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.61
+      ],
+      "nonzero_levels": 70,
+      "rle_bytes": 146
+    },
+    {
+      "frame_id": 19,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -1
+        ]
+      ],
+      "match_mse": [
+        3223.76
+      ],
+      "nonzero_levels": 355,
+      "rle_bytes": 718
+    }
+  ],
+  "20": [
+    {
+      "frame_id": 20,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        15.63,
+        8.59
+      ],
+      "nonzero_levels": 22,
+      "rle_bytes": 50
+    },
+    {
+      "frame_id": 20,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          7
+        ]
+      ],
+      "match_mse": [
+        3.88,
+        3.81
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 20,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        3.96,
+        4.77
+      ],
+      "nonzero_levels": 18,
+      "rle_bytes": 44
+    },
+    {
+      "frame_id": 20,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          6
+        ],
+        [
+          -1,
+          7
+        ]
+      ],
+      "match_mse": [
+        5.01,
+        6.75
+      ],
+      "nonzero_levels": 6,
+      "rle_bytes": 20
+    },
+    {
+      "frame_id": 20,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          5
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        2347.0,
+        34.68
+      ],
+      "nonzero_levels": 118,
+      "rle_bytes": 242
+    },
+    {
+      "frame_id": 20,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "match_mse": [
+        3.74,
+        8.5
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 20,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        3.7,
+        4.2
+      ],
+      "nonzero_levels": 1,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 20,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        916.6,
+        520.35
+      ],
+      "nonzero_levels": 147,
+      "rle_bytes": 300
+    },
+    {
+      "frame_id": 20,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          1
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        49.82,
+        117.92
+      ],
+      "nonzero_levels": 186,
+      "rle_bytes": 378
+    },
+    {
+      "frame_id": 20,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        2370.11,
+        35.65
+      ],
+      "nonzero_levels": 116,
+      "rle_bytes": 238
+    },
+    {
+      "frame_id": 20,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        3.81,
+        8.71
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 20,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -7
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.06,
+        4.2
+      ],
+      "nonzero_levels": 3,
+      "rle_bytes": 14
+    },
+    {
+      "frame_id": 20,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        896.7,
+        153.4
+      ],
+      "nonzero_levels": 123,
+      "rle_bytes": 252
+    },
+    {
+      "frame_id": 20,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -3
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.56,
+        8.96
+      ],
+      "nonzero_levels": 17,
+      "rle_bytes": 40
+    },
+    {
+      "frame_id": 20,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        2357.25,
+        34.74
+      ],
+      "nonzero_levels": 132,
+      "rle_bytes": 270
+    }
+  ],
+  "21": [
+    {
+      "frame_id": 21,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        22.46
+      ],
+      "nonzero_levels": 274,
+      "rle_bytes": 554
+    },
+    {
+      "frame_id": 21,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.27
+      ],
+      "nonzero_levels": 23,
+      "rle_bytes": 56
+    },
+    {
+      "frame_id": 21,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          3
+        ]
+      ],
+      "match_mse": [
+        4.78
+      ],
+      "nonzero_levels": 43,
+      "rle_bytes": 94
+    },
+    {
+      "frame_id": 21,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          1
+        ]
+      ],
+      "match_mse": [
+        8.37
+      ],
+      "nonzero_levels": 83,
+      "rle_bytes": 172
+    },
+    {
+      "frame_id": 21,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          5
+        ]
+      ],
+      "match_mse": [
+        4447.84
+      ],
+      "nonzero_levels": 391,
+      "rle_bytes": 788
+    },
+    {
+      "frame_id": 21,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.08
+      ],
+      "nonzero_levels": 63,
+      "rle_bytes": 134
+    },
+    {
+      "frame_id": 21,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.49
+      ],
+      "nonzero_levels": 43,
+      "rle_bytes": 92
+    },
+    {
+      "frame_id": 21,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          1
+        ]
+      ],
+      "match_mse": [
+        839.48
+      ],
+      "nonzero_levels": 486,
+      "rle_bytes": 978
+    },
+    {
+      "frame_id": 21,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          1
+        ]
+      ],
+      "match_mse": [
+        363.74
+      ],
+      "nonzero_levels": 523,
+      "rle_bytes": 1052
+    },
+    {
+      "frame_id": 21,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -1
+        ]
+      ],
+      "match_mse": [
+        4461.28
+      ],
+      "nonzero_levels": 392,
+      "rle_bytes": 790
+    },
+    {
+      "frame_id": 21,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.96
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 21,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.98
+      ],
+      "nonzero_levels": 44,
+      "rle_bytes": 96
+    },
+    {
+      "frame_id": 21,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          -8,
+          0
+        ]
+      ],
+      "match_mse": [
+        715.61
+      ],
+      "nonzero_levels": 527,
+      "rle_bytes": 1060
+    },
+    {
+      "frame_id": 21,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -3
+        ]
+      ],
+      "match_mse": [
+        9.18
+      ],
+      "nonzero_levels": 107,
+      "rle_bytes": 220
+    },
+    {
+      "frame_id": 21,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4461.39
+      ],
+      "nonzero_levels": 358,
+      "rle_bytes": 722
+    }
+  ],
+  "22": [
+    {
+      "frame_id": 22,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        9.69,
+        12.19
+      ],
+      "nonzero_levels": 11,
+      "rle_bytes": 30
+    },
+    {
+      "frame_id": 22,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          5
+        ],
+        [
+          -1,
+          4
+        ]
+      ],
+      "match_mse": [
+        5.21,
+        5.21
+      ],
+      "nonzero_levels": 32,
+      "rle_bytes": 74
+    },
+    {
+      "frame_id": 22,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.23,
+        3.79
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 22,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          7
+        ],
+        [
+          -2,
+          1
+        ]
+      ],
+      "match_mse": [
+        9.25,
+        14.22
+      ],
+      "nonzero_levels": 118,
+      "rle_bytes": 244
+    },
+    {
+      "frame_id": 22,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          2
+        ],
+        [
+          -1,
+          6
+        ]
+      ],
+      "match_mse": [
+        36.56,
+        7.55
+      ],
+      "nonzero_levels": 79,
+      "rle_bytes": 164
+    },
+    {
+      "frame_id": 22,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.97,
+        14.68
+      ],
+      "nonzero_levels": 69,
+      "rle_bytes": 146
+    },
+    {
+      "frame_id": 22,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.31,
+        5.08
+      ],
+      "nonzero_levels": 30,
+      "rle_bytes": 68
+    },
+    {
+      "frame_id": 22,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          1
+        ],
+        [
+          1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        1121.05,
+        1269.46
+      ],
+      "nonzero_levels": 137,
+      "rle_bytes": 280
+    },
+    {
+      "frame_id": 22,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          1
+        ],
+        [
+          -2,
+          -8
+        ]
+      ],
+      "match_mse": [
+        277.14,
+        2032.58
+      ],
+      "nonzero_levels": 308,
+      "rle_bytes": 622
+    },
+    {
+      "frame_id": 22,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        37.42,
+        7.33
+      ],
+      "nonzero_levels": 69,
+      "rle_bytes": 144
+    },
+    {
+      "frame_id": 22,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.07,
+        15.23
+      ],
+      "nonzero_levels": 80,
+      "rle_bytes": 168
+    },
+    {
+      "frame_id": 22,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.28,
+        6.02
+      ],
+      "nonzero_levels": 41,
+      "rle_bytes": 90
+    },
+    {
+      "frame_id": 22,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          -2,
+          0
+        ],
+        [
+          0,
+          -1
+        ]
+      ],
+      "match_mse": [
+        104.7,
+        59.63
+      ],
+      "nonzero_levels": 103,
+      "rle_bytes": 212
+    },
+    {
+      "frame_id": 22,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          -2,
+          0
+        ]
+      ],
+      "match_mse": [
+        9.7,
+        14.71
+      ],
+      "nonzero_levels": 120,
+      "rle_bytes": 246
+    },
+    {
+      "frame_id": 22,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        36.02,
+        6.89
+      ],
+      "nonzero_levels": 63,
+      "rle_bytes": 132
+    }
+  ],
+  "23": [
+    {
+      "frame_id": 23,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        22.55
+      ],
+      "nonzero_levels": 297,
+      "rle_bytes": 600
+    },
+    {
+      "frame_id": 23,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          5
+        ]
+      ],
+      "match_mse": [
+        4.84
+      ],
+      "nonzero_levels": 15,
+      "rle_bytes": 38
+    },
+    {
+      "frame_id": 23,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.35
+      ],
+      "nonzero_levels": 21,
+      "rle_bytes": 50
+    },
+    {
+      "frame_id": 23,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        210.79
+      ],
+      "nonzero_levels": 172,
+      "rle_bytes": 350
+    },
+    {
+      "frame_id": 23,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          1
+        ]
+      ],
+      "match_mse": [
+        46.89
+      ],
+      "nonzero_levels": 397,
+      "rle_bytes": 800
+    },
+    {
+      "frame_id": 23,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.3
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 23,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.19
+      ],
+      "nonzero_levels": 20,
+      "rle_bytes": 46
+    },
+    {
+      "frame_id": 23,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          1
+        ]
+      ],
+      "match_mse": [
+        236.52
+      ],
+      "nonzero_levels": 505,
+      "rle_bytes": 1016
+    },
+    {
+      "frame_id": 23,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          -5
+        ]
+      ],
+      "match_mse": [
+        2550.55
+      ],
+      "nonzero_levels": 284,
+      "rle_bytes": 574
+    },
+    {
+      "frame_id": 23,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        48.57
+      ],
+      "nonzero_levels": 391,
+      "rle_bytes": 788
+    },
+    {
+      "frame_id": 23,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.31
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 23,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.36
+      ],
+      "nonzero_levels": 30,
+      "rle_bytes": 66
+    },
+    {
+      "frame_id": 23,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        215.69
+      ],
+      "nonzero_levels": 108,
+      "rle_bytes": 222
+    },
+    {
+      "frame_id": 23,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        208.1
+      ],
+      "nonzero_levels": 169,
+      "rle_bytes": 344
+    },
+    {
+      "frame_id": 23,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -1
+        ]
+      ],
+      "match_mse": [
+        47.04
+      ],
+      "nonzero_levels": 380,
+      "rle_bytes": 766
+    }
+  ],
+  "24": [
+    {
+      "frame_id": 24,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 762,
+      "rle_bytes": 1530
+    },
+    {
+      "frame_id": 24,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 672,
+      "rle_bytes": 1350
+    },
+    {
+      "frame_id": 24,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 624,
+      "rle_bytes": 1254
+    },
+    {
+      "frame_id": 24,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 645,
+      "rle_bytes": 1296
+    },
+    {
+      "frame_id": 24,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 548,
+      "rle_bytes": 1102
+    },
+    {
+      "frame_id": 24,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 400,
+      "rle_bytes": 808
+    },
+    {
+      "frame_id": 24,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 432,
+      "rle_bytes": 872
+    },
+    {
+      "frame_id": 24,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 502,
+      "rle_bytes": 1010
+    },
+    {
+      "frame_id": 24,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 765,
+      "rle_bytes": 1536
+    },
+    {
+      "frame_id": 24,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 432,
+      "rle_bytes": 872
+    },
+    {
+      "frame_id": 24,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 432,
+      "rle_bytes": 872
+    },
+    {
+      "frame_id": 24,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 432,
+      "rle_bytes": 872
+    },
+    {
+      "frame_id": 24,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 448,
+      "rle_bytes": 904
+    },
+    {
+      "frame_id": 24,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 512,
+      "rle_bytes": 1030
+    },
+    {
+      "frame_id": 24,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [],
+      "match_mse": [],
+      "nonzero_levels": 431,
+      "rle_bytes": 870
+    }
+  ],
+  "25": [
+    {
+      "frame_id": 25,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        10.04
+      ],
+      "nonzero_levels": 115,
+      "rle_bytes": 236
+    },
+    {
+      "frame_id": 25,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.77
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 25,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          3
+        ]
+      ],
+      "match_mse": [
+        7.18
+      ],
+      "nonzero_levels": 30,
+      "rle_bytes": 68
+    },
+    {
+      "frame_id": 25,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          5
+        ]
+      ],
+      "match_mse": [
+        193.54
+      ],
+      "nonzero_levels": 90,
+      "rle_bytes": 186
+    },
+    {
+      "frame_id": 25,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          8
+        ]
+      ],
+      "match_mse": [
+        12.86
+      ],
+      "nonzero_levels": 193,
+      "rle_bytes": 392
+    },
+    {
+      "frame_id": 25,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.8
+      ],
+      "nonzero_levels": 37,
+      "rle_bytes": 82
+    },
+    {
+      "frame_id": 25,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.78
+      ],
+      "nonzero_levels": 32,
+      "rle_bytes": 74
+    },
+    {
+      "frame_id": 25,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          1
+        ]
+      ],
+      "match_mse": [
+        212.23
+      ],
+      "nonzero_levels": 407,
+      "rle_bytes": 820
+    },
+    {
+      "frame_id": 25,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          1
+        ]
+      ],
+      "match_mse": [
+        2905.07
+      ],
+      "nonzero_levels": 247,
+      "rle_bytes": 500
+    },
+    {
+      "frame_id": 25,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        10.5
+      ],
+      "nonzero_levels": 176,
+      "rle_bytes": 360
+    },
+    {
+      "frame_id": 25,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.1
+      ],
+      "nonzero_levels": 45,
+      "rle_bytes": 98
+    },
+    {
+      "frame_id": 25,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        7.3
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 25,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        3.33
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 25,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        185.7
+      ],
+      "nonzero_levels": 84,
+      "rle_bytes": 174
+    },
+    {
+      "frame_id": 25,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        11.07
+      ],
+      "nonzero_levels": 169,
+      "rle_bytes": 346
+    }
+  ],
+  "26": [
+    {
+      "frame_id": 26,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        11.8,
+        6.88
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 38
+    },
+    {
+      "frame_id": 26,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "match_mse": [
+        5.0,
+        6.32
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 26,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          4
+        ],
+        [
+          -1,
+          4
+        ]
+      ],
+      "match_mse": [
+        7.99,
+        6.5
+      ],
+      "nonzero_levels": 6,
+      "rle_bytes": 18
+    },
+    {
+      "frame_id": 26,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          3
+        ],
+        [
+          -1,
+          1
+        ]
+      ],
+      "match_mse": [
+        33.49,
+        30.79
+      ],
+      "nonzero_levels": 139,
+      "rle_bytes": 284
+    },
+    {
+      "frame_id": 26,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          8
+        ],
+        [
+          -1,
+          5
+        ]
+      ],
+      "match_mse": [
+        7.52,
+        6.86
+      ],
+      "nonzero_levels": 70,
+      "rle_bytes": 148
+    },
+    {
+      "frame_id": 26,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "match_mse": [
+        5.19,
+        6.62
+      ],
+      "nonzero_levels": 43,
+      "rle_bytes": 94
+    },
+    {
+      "frame_id": 26,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          0,
+          8
+        ]
+      ],
+      "match_mse": [
+        4.8,
+        6.25
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 26,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          1
+        ],
+        [
+          1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        335.95,
+        61.06
+      ],
+      "nonzero_levels": 97,
+      "rle_bytes": 200
+    },
+    {
+      "frame_id": 26,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          1
+        ],
+        [
+          -1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        2087.8,
+        4273.31
+      ],
+      "nonzero_levels": 327,
+      "rle_bytes": 660
+    },
+    {
+      "frame_id": 26,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        7.38,
+        6.71
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 26,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.31,
+        7.25
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 26,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4.71,
+        6.25
+      ],
+      "nonzero_levels": 24,
+      "rle_bytes": 56
+    },
+    {
+      "frame_id": 26,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          -1
+        ]
+      ],
+      "match_mse": [
+        5.06,
+        5.65
+      ],
+      "nonzero_levels": 44,
+      "rle_bytes": 98
+    },
+    {
+      "frame_id": 26,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        30.59,
+        28.32
+      ],
+      "nonzero_levels": 97,
+      "rle_bytes": 200
+    },
+    {
+      "frame_id": 26,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        7.52,
+        6.67
+      ],
+      "nonzero_levels": 70,
+      "rle_bytes": 148
+    }
+  ],
+  "27": [
+    {
+      "frame_id": 27,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        17.32
+      ],
+      "nonzero_levels": 169,
+      "rle_bytes": 344
+    },
+    {
+      "frame_id": 27,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.85
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 27,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          4
+        ]
+      ],
+      "match_mse": [
+        8.92
+      ],
+      "nonzero_levels": 97,
+      "rle_bytes": 200
+    },
+    {
+      "frame_id": 27,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          3
+        ]
+      ],
+      "match_mse": [
+        7.33
+      ],
+      "nonzero_levels": 61,
+      "rle_bytes": 128
+    },
+    {
+      "frame_id": 27,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          8
+        ]
+      ],
+      "match_mse": [
+        13.51
+      ],
+      "nonzero_levels": 224,
+      "rle_bytes": 456
+    },
+    {
+      "frame_id": 27,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.52
+      ],
+      "nonzero_levels": 53,
+      "rle_bytes": 114
+    },
+    {
+      "frame_id": 27,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        5.77
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 27,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          2
+        ]
+      ],
+      "match_mse": [
+        230.74
+      ],
+      "nonzero_levels": 526,
+      "rle_bytes": 1058
+    },
+    {
+      "frame_id": 27,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          2
+        ]
+      ],
+      "match_mse": [
+        4638.26
+      ],
+      "nonzero_levels": 242,
+      "rle_bytes": 490
+    },
+    {
+      "frame_id": 27,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        13.44
+      ],
+      "nonzero_levels": 224,
+      "rle_bytes": 456
+    },
+    {
+      "frame_id": 27,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -3
+        ]
+      ],
+      "match_mse": [
+        5.45
+      ],
+      "nonzero_levels": 58,
+      "rle_bytes": 124
+    },
+    {
+      "frame_id": 27,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.52
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 27,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.85
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 27,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.34
+      ],
+      "nonzero_levels": 52,
+      "rle_bytes": 112
+    },
+    {
+      "frame_id": 27,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        13.51
+      ],
+      "nonzero_levels": 224,
+      "rle_bytes": 456
+    }
+  ],
+  "28": [
+    {
+      "frame_id": 28,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        17.73,
+        10.37
+      ],
+      "nonzero_levels": 53,
+      "rle_bytes": 112
+    },
+    {
+      "frame_id": 28,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          5
+        ]
+      ],
+      "match_mse": [
+        4.63,
+        4.94
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 28,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.28,
+        6.99
+      ],
+      "nonzero_levels": 37,
+      "rle_bytes": 80
+    },
+    {
+      "frame_id": 28,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        13.76,
+        590.39
+      ],
+      "nonzero_levels": 59,
+      "rle_bytes": 124
+    },
+    {
+      "frame_id": 28,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        11.39,
+        5.72
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 138
+    },
+    {
+      "frame_id": 28,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "match_mse": [
+        3.56,
+        11.55
+      ],
+      "nonzero_levels": 5,
+      "rle_bytes": 20
+    },
+    {
+      "frame_id": 28,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.43,
+        4.64
+      ],
+      "nonzero_levels": 5,
+      "rle_bytes": 20
+    },
+    {
+      "frame_id": 28,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          0
+        ],
+        [
+          1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        49.82,
+        31.19
+      ],
+      "nonzero_levels": 53,
+      "rle_bytes": 112
+    },
+    {
+      "frame_id": 28,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        4687.32,
+        3346.13
+      ],
+      "nonzero_levels": 377,
+      "rle_bytes": 760
+    },
+    {
+      "frame_id": 28,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        11.38,
+        5.71
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 138
+    },
+    {
+      "frame_id": 28,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -5
+        ],
+        [
+          0,
+          -3
+        ]
+      ],
+      "match_mse": [
+        3.75,
+        11.91
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 28,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          -5
+        ]
+      ],
+      "match_mse": [
+        4.26,
+        4.75
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 28,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        4.07,
+        4.73
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 28,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          -5
+        ]
+      ],
+      "match_mse": [
+        11.96,
+        505.84
+      ],
+      "nonzero_levels": 58,
+      "rle_bytes": 122
+    },
+    {
+      "frame_id": 28,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        11.39,
+        5.72
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 138
+    }
+  ],
+  "29": [
+    {
+      "frame_id": 29,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        28.48
+      ],
+      "nonzero_levels": 328,
+      "rle_bytes": 662
+    },
+    {
+      "frame_id": 29,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        6.0
+      ],
+      "nonzero_levels": 58,
+      "rle_bytes": 122
+    },
+    {
+      "frame_id": 29,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          1
+        ]
+      ],
+      "match_mse": [
+        7.89
+      ],
+      "nonzero_levels": 69,
+      "rle_bytes": 144
+    },
+    {
+      "frame_id": 29,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          2
+        ]
+      ],
+      "match_mse": [
+        629.44
+      ],
+      "nonzero_levels": 179,
+      "rle_bytes": 364
+    },
+    {
+      "frame_id": 29,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        24.31
+      ],
+      "nonzero_levels": 320,
+      "rle_bytes": 648
+    },
+    {
+      "frame_id": 29,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          5
+        ]
+      ],
+      "match_mse": [
+        5.1
+      ],
+      "nonzero_levels": 16,
+      "rle_bytes": 42
+    },
+    {
+      "frame_id": 29,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          2,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.53
+      ],
+      "nonzero_levels": 54,
+      "rle_bytes": 116
+    },
+    {
+      "frame_id": 29,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          8
+        ]
+      ],
+      "match_mse": [
+        70.61
+      ],
+      "nonzero_levels": 483,
+      "rle_bytes": 972
+    },
+    {
+      "frame_id": 29,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          1
+        ]
+      ],
+      "match_mse": [
+        7518.09
+      ],
+      "nonzero_levels": 381,
+      "rle_bytes": 768
+    },
+    {
+      "frame_id": 29,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        24.31
+      ],
+      "nonzero_levels": 320,
+      "rle_bytes": 648
+    },
+    {
+      "frame_id": 29,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.09
+      ],
+      "nonzero_levels": 24,
+      "rle_bytes": 56
+    },
+    {
+      "frame_id": 29,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.46
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 29,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.12
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 29,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -2
+        ]
+      ],
+      "match_mse": [
+        626.06
+      ],
+      "nonzero_levels": 138,
+      "rle_bytes": 282
+    },
+    {
+      "frame_id": 29,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        24.2
+      ],
+      "nonzero_levels": 320,
+      "rle_bytes": 648
+    }
+  ],
+  "30": [
+    {
+      "frame_id": 30,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        12.11,
+        10.86
+      ],
+      "nonzero_levels": 27,
+      "rle_bytes": 60
+    },
+    {
+      "frame_id": 30,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          1
+        ]
+      ],
+      "match_mse": [
+        4.77,
+        5.94
+      ],
+      "nonzero_levels": 0,
+      "rle_bytes": 12
+    },
+    {
+      "frame_id": 30,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          7
+        ]
+      ],
+      "match_mse": [
+        6.03,
+        5.76
+      ],
+      "nonzero_levels": 3,
+      "rle_bytes": 16
+    },
+    {
+      "frame_id": 30,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        57.79,
+        831.14
+      ],
+      "nonzero_levels": 96,
+      "rle_bytes": 198
+    },
+    {
+      "frame_id": 30,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        9.71,
+        6.38
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 106
+    },
+    {
+      "frame_id": 30,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.02,
+        7.0
+      ],
+      "nonzero_levels": 26,
+      "rle_bytes": 62
+    },
+    {
+      "frame_id": 30,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          8
+        ]
+      ],
+      "match_mse": [
+        4.5,
+        5.81
+      ],
+      "nonzero_levels": 6,
+      "rle_bytes": 22
+    },
+    {
+      "frame_id": 30,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ],
+        [
+          -1,
+          0
+        ]
+      ],
+      "match_mse": [
+        7.96,
+        6.55
+      ],
+      "nonzero_levels": 39,
+      "rle_bytes": 84
+    },
+    {
+      "frame_id": 30,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          -1,
+          1
+        ],
+        [
+          1,
+          -1
+        ]
+      ],
+      "match_mse": [
+        4425.28,
+        2064.27
+      ],
+      "nonzero_levels": 280,
+      "rle_bytes": 566
+    },
+    {
+      "frame_id": 30,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        9.71,
+        6.38
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 106
+    },
+    {
+      "frame_id": 30,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4.71,
+        7.08
+      ],
+      "nonzero_levels": 36,
+      "rle_bytes": 80
+    },
+    {
+      "frame_id": 30,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -8
+        ],
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        4.42,
+        5.61
+      ],
+      "nonzero_levels": 3,
+      "rle_bytes": 16
+    },
+    {
+      "frame_id": 30,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          -8
+        ]
+      ],
+      "match_mse": [
+        5.13,
+        5.26
+      ],
+      "nonzero_levels": 3,
+      "rle_bytes": 14
+    },
+    {
+      "frame_id": 30,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -5
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        22.52,
+        646.86
+      ],
+      "nonzero_levels": 99,
+      "rle_bytes": 204
+    },
+    {
+      "frame_id": 30,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ],
+        [
+          -1,
+          -2
+        ]
+      ],
+      "match_mse": [
+        9.71,
+        6.38
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 106
+    }
+  ],
+  "31": [
+    {
+      "frame_id": 31,
+      "block": 0,
+      "pos": [
+        0,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        21.51
+      ],
+      "nonzero_levels": 247,
+      "rle_bytes": 500
+    },
+    {
+      "frame_id": 31,
+      "block": 1,
+      "pos": [
+        16,
+        0
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        5.38
+      ],
+      "nonzero_levels": 59,
+      "rle_bytes": 126
+    },
+    {
+      "frame_id": 31,
+      "block": 2,
+      "pos": [
+        32,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        6.11
+      ],
+      "nonzero_levels": 37,
+      "rle_bytes": 80
+    },
+    {
+      "frame_id": 31,
+      "block": 3,
+      "pos": [
+        48,
+        0
+      ],
+      "mv": [
+        [
+          2,
+          0
+        ]
+      ],
+      "match_mse": [
+        853.9
+      ],
+      "nonzero_levels": 187,
+      "rle_bytes": 380
+    },
+    {
+      "frame_id": 31,
+      "block": 4,
+      "pos": [
+        64,
+        0
+      ],
+      "mv": [
+        [
+          0,
+          0
+        ]
+      ],
+      "match_mse": [
+        22.6
+      ],
+      "nonzero_levels": 288,
+      "rle_bytes": 584
+    },
+    {
+      "frame_id": 31,
+      "block": 5,
+      "pos": [
+        0,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.43
+      ],
+      "nonzero_levels": 64,
+      "rle_bytes": 136
+    },
+    {
+      "frame_id": 31,
+      "block": 6,
+      "pos": [
+        16,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.07
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 31,
+      "block": 7,
+      "pos": [
+        32,
+        16
+      ],
+      "mv": [
+        [
+          1,
+          8
+        ]
+      ],
+      "match_mse": [
+        9.01
+      ],
+      "nonzero_levels": 121,
+      "rle_bytes": 248
+    },
+    {
+      "frame_id": 31,
+      "block": 8,
+      "pos": [
+        48,
+        16
+      ],
+      "mv": [
+        [
+          -2,
+          1
+        ]
+      ],
+      "match_mse": [
+        6336.45
+      ],
+      "nonzero_levels": 560,
+      "rle_bytes": 1126
+    },
+    {
+      "frame_id": 31,
+      "block": 9,
+      "pos": [
+        64,
+        16
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        22.6
+      ],
+      "nonzero_levels": 288,
+      "rle_bytes": 584
+    },
+    {
+      "frame_id": 31,
+      "block": 10,
+      "pos": [
+        0,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.62
+      ],
+      "nonzero_levels": 66,
+      "rle_bytes": 140
+    },
+    {
+      "frame_id": 31,
+      "block": 11,
+      "pos": [
+        16,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -5
+        ]
+      ],
+      "match_mse": [
+        5.35
+      ],
+      "nonzero_levels": 48,
+      "rle_bytes": 104
+    },
+    {
+      "frame_id": 31,
+      "block": 12,
+      "pos": [
+        32,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          0
+        ]
+      ],
+      "match_mse": [
+        5.89
+      ],
+      "nonzero_levels": 77,
+      "rle_bytes": 162
+    },
+    {
+      "frame_id": 31,
+      "block": 13,
+      "pos": [
+        48,
+        32
+      ],
+      "mv": [
+        [
+          1,
+          -5
+        ]
+      ],
+      "match_mse": [
+        635.61
+      ],
+      "nonzero_levels": 143,
+      "rle_bytes": 292
+    },
+    {
+      "frame_id": 31,
+      "block": 14,
+      "pos": [
+        64,
+        32
+      ],
+      "mv": [
+        [
+          0,
+          -8
+        ]
+      ],
+      "match_mse": [
+        22.6
+      ],
+      "nonzero_levels": 288,
+      "rle_bytes": 584
+    }
+  ]
+}
